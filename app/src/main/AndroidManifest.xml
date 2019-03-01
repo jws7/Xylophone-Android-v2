@@ -10,7 +10,7 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name=".MainActivity"
+            android:name="net.jws7.xylophonepm.MainActivity"
             android:screenOrientation="portrait">
 
             <intent-filter>

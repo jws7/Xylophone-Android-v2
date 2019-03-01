@@ -1,11 +1,11 @@
-package com.londonappbrewery.xylophonepm;
+package net.jws7.xylophonepm;
 
-import android.media.AudioManager;
 import android.media.SoundPool;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.widget.Toast;
+
+import com.londonappbrewery.xylophonepm.R;
 
 public class MainActivity extends AppCompatActivity {
 
